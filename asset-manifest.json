@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/rs-multiplex/static/css/main.455af1ef.chunk.css",
+    "main.js": "/rs-multiplex/static/js/main.be701911.chunk.js",
+    "main.js.map": "/rs-multiplex/static/js/main.be701911.chunk.js.map",
+    "runtime-main.js": "/rs-multiplex/static/js/runtime-main.e65f2007.js",
+    "runtime-main.js.map": "/rs-multiplex/static/js/runtime-main.e65f2007.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/rs-multiplex/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c978decf.chunk.js": "/rs-multiplex/static/js/2.c978decf.chunk.js",
+    "static/js/2.c978decf.chunk.js.map": "/rs-multiplex/static/js/2.c978decf.chunk.js.map",
+    "index.html": "/rs-multiplex/index.html",
+    "precache-manifest.051997e260a966c0430e643b1e37f428.js": "/rs-multiplex/precache-manifest.051997e260a966c0430e643b1e37f428.js",
+    "service-worker.js": "/rs-multiplex/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/rs-multiplex/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.455af1ef.chunk.css.map": "/rs-multiplex/static/css/main.455af1ef.chunk.css.map",
+    "static/js/2.c978decf.chunk.js.LICENSE.txt": "/rs-multiplex/static/js/2.c978decf.chunk.js.LICENSE.txt",
+    "static/media/Slider.css": "/rs-multiplex/static/media/slider.f6739b82.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e65f2007.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c978decf.chunk.js",
+    "static/css/main.455af1ef.chunk.css",
+    "static/js/main.be701911.chunk.js"
+  ]
+}
