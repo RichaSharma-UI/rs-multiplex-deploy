@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/rs-multiplex/static/css/main.455af1ef.chunk.css",
-    "main.js": "/rs-multiplex/static/js/main.be701911.chunk.js",
-    "main.js.map": "/rs-multiplex/static/js/main.be701911.chunk.js.map",
-    "runtime-main.js": "/rs-multiplex/static/js/runtime-main.e65f2007.js",
-    "runtime-main.js.map": "/rs-multiplex/static/js/runtime-main.e65f2007.js.map",
-    "static/css/2.75c4ecca.chunk.css": "/rs-multiplex/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.c978decf.chunk.js": "/rs-multiplex/static/js/2.c978decf.chunk.js",
-    "static/js/2.c978decf.chunk.js.map": "/rs-multiplex/static/js/2.c978decf.chunk.js.map",
-    "index.html": "/rs-multiplex/index.html",
-    "precache-manifest.051997e260a966c0430e643b1e37f428.js": "/rs-multiplex/precache-manifest.051997e260a966c0430e643b1e37f428.js",
-    "service-worker.js": "/rs-multiplex/service-worker.js",
-    "static/css/2.75c4ecca.chunk.css.map": "/rs-multiplex/static/css/2.75c4ecca.chunk.css.map",
-    "static/css/main.455af1ef.chunk.css.map": "/rs-multiplex/static/css/main.455af1ef.chunk.css.map",
-    "static/js/2.c978decf.chunk.js.LICENSE.txt": "/rs-multiplex/static/js/2.c978decf.chunk.js.LICENSE.txt",
-    "static/media/Slider.css": "/rs-multiplex/static/media/slider.f6739b82.jpg"
+    "main.css": "/rs-multiplex-deploy/static/css/main.9a836311.chunk.css",
+    "main.js": "/rs-multiplex-deploy/static/js/main.be701911.chunk.js",
+    "main.js.map": "/rs-multiplex-deploy/static/js/main.be701911.chunk.js.map",
+    "runtime-main.js": "/rs-multiplex-deploy/static/js/runtime-main.fd63fb0f.js",
+    "runtime-main.js.map": "/rs-multiplex-deploy/static/js/runtime-main.fd63fb0f.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/rs-multiplex-deploy/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c978decf.chunk.js": "/rs-multiplex-deploy/static/js/2.c978decf.chunk.js",
+    "static/js/2.c978decf.chunk.js.map": "/rs-multiplex-deploy/static/js/2.c978decf.chunk.js.map",
+    "index.html": "/rs-multiplex-deploy/index.html",
+    "precache-manifest.66c3bdc2f22a028df3d9628ca65bf8f4.js": "/rs-multiplex-deploy/precache-manifest.66c3bdc2f22a028df3d9628ca65bf8f4.js",
+    "service-worker.js": "/rs-multiplex-deploy/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/rs-multiplex-deploy/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.9a836311.chunk.css.map": "/rs-multiplex-deploy/static/css/main.9a836311.chunk.css.map",
+    "static/js/2.c978decf.chunk.js.LICENSE.txt": "/rs-multiplex-deploy/static/js/2.c978decf.chunk.js.LICENSE.txt",
+    "static/media/Slider.css": "/rs-multiplex-deploy/static/media/slider.f6739b82.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e65f2007.js",
+    "static/js/runtime-main.fd63fb0f.js",
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.c978decf.chunk.js",
-    "static/css/main.455af1ef.chunk.css",
+    "static/css/main.9a836311.chunk.css",
     "static/js/main.be701911.chunk.js"
   ]
 }
