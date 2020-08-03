@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
@@ -12,7 +12,7 @@ import Spinner from './Components/Spinner/Spinner';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter basename='/'>
       <UserProvider>
         <div className="container-fluid p-0">
           <Header />
@@ -21,6 +21,6 @@ export default function App() {
           </Suspense>
         </div >
       </UserProvider>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
